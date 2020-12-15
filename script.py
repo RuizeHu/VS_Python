@@ -3,6 +3,7 @@ import sys
 from os import rename
 
 # print(sys.version)
+# print(sys.version)
 print(sys.executable)
 
 
