@@ -5,6 +5,7 @@ from os import rename
 # print(sys.version)
 # print(sys.version)
 print(sys.executable)
+test = 5
 
 
 def greet(who_to_greet):
